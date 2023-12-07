@@ -1,2 +1,2 @@
 # ibc
-[IBC Catalog](IBCcatalog05252023.pdf)
+[IBC Catalog](/IBCcatalog05252023.pdf)
